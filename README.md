@@ -1,7 +1,7 @@
 # Significance-based decision tree for interpretable categorical data clustering
 https://www.sciencedirect.com/science/article/pii/S0020025524015020
 
-To run the interpretable clustering method, execute `main_SigDT.m` (for Matlab).
+To run the interpretable clustering method (which is formulated as a multivariate two-sample problem), execute `main_SigDT.m` (for Matlab).
 
 ## Citation
 
