@@ -14,5 +14,5 @@ If you find my code useful please consider citing:
       volume={690},
       pages={121588},
       year={2025},
-      doi={10.1007/s10115-024-02317-x}
+      doi={10.1016/j.ins.2024.121588}
     }
